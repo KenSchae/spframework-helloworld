@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spframework-helloworld-client-side-solution",
+    "id": "aa049c35-a059-4c89-89a0-17e61e007734",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spframework-helloworld.sppkg"
+  }
+}

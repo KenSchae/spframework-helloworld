@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "spframework-helloworld",
+    "libraryId": "aa049c35-a059-4c89-89a0-17e61e007734",
+    "environment": "spo"
+  }
+}
